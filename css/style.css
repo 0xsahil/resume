@@ -1,0 +1,23 @@
+hr{
+            
+            border-style: none;
+            border-top: dotted;
+            border-color: grey;
+            border-width: 5px;
+            width: 30%;
+            margin-left: auto;
+        }
+body{
+    background-color :#EEEEEE;
+}
+h3{
+    color: darkcyan;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+img:hover{
+    background-color: black;
+    border-radius: 10%;
+}
